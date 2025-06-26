@@ -1,0 +1,10 @@
+scikit-learn==1.3.2
+pandas==2.1.3
+numpy==1.26.2
+streamlit==1.28.0
+seaborn==0.13.2
+<<<<<<< HEAD
+matplotlib==3.8.2
+=======
+matplotlib==3.8.2
+>>>>>>> 7298a17 (your update message)
