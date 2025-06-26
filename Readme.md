@@ -65,12 +65,10 @@ streamlit run app.py
 
 ## 🖼 App UI Preview
 
-<<<<<<< HEAD
 ![Fake News Detection App Preview](screenshots/app-preview.png)
 =======
 ![Fake News Detection App Preview](SS1.png)
 ![Fake News Detection App Preview](SS2.png)
->>>>>>> 7298a17 (your update message)
 
 ## 📈 Results
 # Accuracy: ~97%
@@ -81,7 +79,7 @@ streamlit run app.py
 
 ###👨‍💻 Author
 ```bash
-Made with ❤️ by Ayushmaan Singh Yadav
+Made with ❤️ by Rimjhim Mishra
 ```
 
 🤝 Contributing
